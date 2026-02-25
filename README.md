@@ -51,7 +51,4 @@ int main(void)
 ```
 
 ---
-
-## 👤 Author
-
-**ItsVaguayo**
+This project was completed as part of the 42 curriculum.
